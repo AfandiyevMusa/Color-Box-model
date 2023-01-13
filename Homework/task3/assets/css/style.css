@@ -1,0 +1,85 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 100px 300px;
+    background-color: rgb(249 249 247);
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.all{
+    
+}
+
+.part1{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 250px;
+    padding-right: 250px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: Sacramento;
+    font-size: 120px;
+}
+
+.part2{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.part3{
+    padding-top: 30px;
+    padding-bottom: 10px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.part4{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 260px;
+    padding-right: 260px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+.part5{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 80px;
+    padding-right: 80px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.part6{
+    padding-top: 20px;
+    padding-bottom: 80px;
+    padding-left: 250px;
+    padding-right: 250px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    font-family: 'Rambla', sans-serif;
+    font-size: 20px;
+}
